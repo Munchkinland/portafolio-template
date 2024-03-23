@@ -4,141 +4,194 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Ruben Carrasco",
-    "skill": "Data Scientist, ML Engineer & Mobile Developer",
+    "skill": "CX Solutions Engineering, ML Engineer & Mobile Developer",
     "location": "Madrid, SP",
     "media": {
-        "email": "ruben.carrascobarja@telefonica.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/Munchkinland",
-        "linkedin": "https://www.linkedin.com/in/rub%C3%A9n-carrasco-143145135"
+      "email": "ruben.carrascobarja@telefonica.com",
+      "cv": "/data/cv.pdf",
+      "github": "https://github.com/Munchkinland",
+      "linkedin": "https://www.linkedin.com/in/rub%C3%A9n-carrasco-143145135"
     },
     "about": "I'm a CX Solutions Engineer and Data Scientist 🛠️, with a flair for innovating customer experience solutions and crafting data-driven applications 🔍. My achievements include developing over 10 web applications 🌐 that have drastically improved response times and personalized user interactions 🚀. Leading the initiative to implement CI/CD pipelines, I've driven a 25% boost in product quality in just three months ⏱️. Routinely surpassing goals by over 200% 📈, my efforts have significantly elevated customer satisfaction and streamlined operational efficiencies 💡. Fueled by a passion for exploring new technologies, I actively engage in sharing insights within my professional network and with clients 🌟, promoting a spirit of collaborative growth and innovation 🤝.",
     "tech_stack": [
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
-        }
+      {
+        "icon": "devicon-devicon-plain",
+        "name": "Binario"
+      },
+      {
+        "icon": "devicon-devicon-plain",
+        "name": "Ensamblador"
+      },
+      {
+        "icon": "devicon-devicon-plain",
+        "name": "COBOL"
+      },
+      {
+        "icon": "devicon-c-plain",
+        "name": "C"
+      },
+      {
+        "icon": "devicon-python-plain",
+        "name": "Python"
+      }
     ],
     "experience": [
-        {
-            "icon": "terminal",
-            "title": "CX Solutions Engineer",
-            "subtitle": "Telefonica",
-            "description": "Implemented innovative CX solutions, integrating AI and mobile technologies for enhanced automation and personalization, resulting in improved customer engagement, 10+ web-based software deliveries, and streamlined data analysis for proactive customer initiatives.",
-            "date": "Present"
-        },
-        {
-            "icon": "monitor-check",
-            "title": "DevOps Developer Internship",
-            "subtitle": "Telefonica",
-            "description": "Key contributor coder in cross-functional collaboration to enhance software quality, ensuring ISO 33000 compliance, while leveraging GitLab and Redmine for version control and project management, and spearheading automation initiatives resulting in a 25% quality increase and enhanced development workflows' efficiency.",
-            "date": "2019 - Present"
-        },
-        {
-            "icon": "boxes",
-            "title": "Cisco Technologies Presales Consultant",
-            "subtitle": "Telefonica",
-            "description": "Led detailed technical consultations for Cisco’s collaboration tools, identifying client needs to recommend specific solutions, and executed over 150 live demos to highlight system benefits. Collaborated with sales and engineering to customize and pitch effective collaboration architectures, significantly enhancing client engagement and driving sales success.",
-            "date": "2019 - Present"
-        }
+      {
+        "icon": "terminal",
+        "title": "CX Solutions Engineer",
+        "subtitle": "Telefonica",
+        "description": "Implemented innovative CX solutions, integrating AI and mobile technologies for enhanced automation and personalization, resulting in improved customer engagement, 10+ web-based software deliveries, and streamlined data analysis for proactive customer initiatives.",
+        "date": "2022 - Present"
+      },
+      {
+        "icon": "monitor-check",
+        "title": "DevOps Developer Internship",
+        "subtitle": "Telefonica",
+        "description": "Key contributor coder in cross-functional collaboration to enhance software quality, ensuring ISO 33000 compliance, while leveraging GitLab and Redmine for version control and project management, and spearheading automation initiatives resulting in a 25% quality increase and enhanced development workflows' efficiency.",
+        "date": "2023 - Present"
+      },
+      {
+        "icon": "boxes",
+        "title": "Cisco Technologies Presales Consultant",
+        "subtitle": "Telefonica",
+        "description": "Led detailed technical consultations for Cisco’s collaboration tools, identifying client needs to recommend specific solutions, and executed over 150 live demos to highlight system benefits. Collaborated with sales and engineering to customize and pitch effective collaboration architectures, significantly enhancing client engagement and driving sales success.",
+        "date": "2019 - 2022"
+      }
     ],
     "projects": [
-        {
-            "icon": "bar-chart-4",
-            "title": "Reengineering Software Release Processes to ISO 33000 Standards",
-            "subtitle": "Telefonica",
-            "description": "Implementation of an Automated Software Quality Verification System compliant with ISO3300 standards led to a 25% improvement in development timelines and a 30% reduction in software bugs through standardization of developer pipelines at Telefónica.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-git-plain",
-                    "name": "Git"
-                },
-                {
-                    "icon": "devicon-gitlab-plain-wordmark",
-                    "name": "Gitlab"
-                },
-                {
-                    "icon": "devicon-bash-plain",
-                    "name": "Bash"
-                }
-
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "biciMad+",
-            "subtitle": "Freelance",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
-        }
+      {
+        "icon": "bar-chart-4",
+        "title": "Reengineering Software Release Processes to ISO 33000",
+        "subtitle": "Telefonica",
+        "description": "Implementation of an Automated Software Quality Verification System compliant with ISO3300 standards led to a 25% improvement in development timelines and a 30% reduction in software bugs through standardization of developer pipelines at Telefónica.",
+        "technologies": [
+          {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "icon": "devicon-gitlab-plain-wordmark",
+            "name": "Gitlab"
+          },
+          {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+          }
+        ],
+        "image": "/project_1.jpg",
+        "url": "https://matrix.fandom.com/wiki/MetaCortex",
+        "github": "https://github.com/thomasanderson"
+      },
+      {
+        "icon": "bug-off",
+        "title": "biciMad+",
+        "subtitle": "Freelance",
+        "description": "This project is a Flask-based web application designed to interact with the BiciMAD API, Madrid's public bicycle sharing system. It provides users with the ability to retrieve information about BiciMAD stations, test API connections, and access the BiciMAD Go zones.",
+        "technologies": [
+          {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "icon": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          },
+          {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+          }
+        ],
+        "image": "/project_2.jpg",
+        "url": "https://example.com/bicimad-plus",
+        "github": "https://github.com/Munchkinland/BiciMad-2.0"
+      },
+      {
+        "icon": "alert_octagon",
+        "title": "Flight Fare Forecast 👉 a Price Prediction Tool",
+        "subtitle": "Freelance",
+        "description": "This web application predicts flight prices based on user input using scikit-learn. It's built with Flask and uses Bootstrap for frontend styling.",
+        "technologies": [
+          {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "icon": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "icon": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+          }
+          
+        ],
+        "image": "/project_3.jpg",
+        "url": "https://example.com/ecofriendly-startup-ecosystem",
+        "github": "https://github.com/Munchkinland/Flight-Fare-Forecast-a-Price-Prediction-Tool"
+      }
     ],
     "training": [
-        {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
+      {
+        "icon": "backpack",
+        "title": "Central West Junior High",
+        "subtitle": "Una escuela",
+        "description": "Aprendí cosas.",
+        "date": "Indeterminado",
+        "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+      },
+      {
+        "icon": "graduation-cap",
+        "title": "Owen Patterson High",
+        "subtitle": "Otra escuela",
+        "description": "Aprendí más cosas.",
+        "date": "Indeterminado",
+        "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+      }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
+      {
+        "image": "/extra_1.jpg",
+        "title": "The Matrix",
+        "description": "Aparecí en esta película.",
+        "url": "https://en.wikipedia.org/wiki/The_Matrix"
+      },
+      {
+        "image": "/extra_2.jpg",
+        "title": "The Matrix Reloaded",
+        "description": "Y en esta otra.",
+        "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+      },
+      {
+        "image": "/extra_3.jpg",
+        "title": "The Matrix Revolutions",
+        "description": "Y en esta más.",
+        "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+      }
     ]
-}
+  }
+  
+  
