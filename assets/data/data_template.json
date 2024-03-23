@@ -13,7 +13,7 @@
         "likedin": "https://linkedin.com"
     },
     "about": "Descripción",
-    "technologies": [
+    "tech_stack": [
         {
             "icon": "devicon-devicon-plain",
             "name": "Tecnología"

@@ -18,7 +18,7 @@ def index() -> rx.Component:
             header(DATA),
             about(DATA.about),
             rx.divider(),
-            tech_stack(DATA.technologies),
+            tech_stack(DATA.tech_stack),
             info("Experiencia", DATA.experience),
             info("Proyectos", DATA.projects),
             info("Formación", DATA.training),

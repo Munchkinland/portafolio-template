@@ -49,7 +49,7 @@ class Data:
             location,
             media,
             about,
-            technologies,
+            tech_stack,
             experience,
             projects,
             training,
@@ -64,14 +64,14 @@ class Data:
         self.location = location
         self.media = Media(**media)
         self.about = about
-        self.technologies = [Technology(**tech) for tech in technologies]
+        self.tech_stack = [Technology(**tech) for tech in tech_stack]  # Cambiado de self.technologies a self.tech_stack
         self.experience = [Info(**info) for info in experience]
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]
         self.extras = [Extra(**info) for info in extras]
 
 
-with open("assets/data/data.json") as file:
+with open("assets/data/data.json", 'r', encoding='utf-8') as file:
     json_data = json.load(file)
 
 data = Data(**json_data)
