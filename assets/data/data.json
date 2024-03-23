@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Ruben Carrasco | Portafolio",
+    "description": "CX SOLUTIONS ENGINEER | DATA SCIENTIST | SOFTWARE DEVELOPER",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Ruben Carrasco",
+    "skill": "Data Scientist, ML Engineer & Mobile Developer",
+    "location": "Madrid, SP",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "ruben.carrascobarja@telefonica.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Munchkinland",
+        "linkedin": "https://www.linkedin.com/in/rub%C3%A9n-carrasco-143145135"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "As a CX Solutions Engineer and Data Scientist, I specialize in crafting innovative CX solutions and data-powered applications. I've developed over 10 web-based applications that enhance response times and personalization. Leading the development of CI/CD pipelines resulted in a 25% quality improvement within three months. Continuously surpassing targets by over 200%, my work drives significant advancements in customer experience and operational efficiency. I'm particularly passionate about experimenting with new technologies, sharing insights not only within the community but also directly with clients to foster collaboration and mutual growth.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
