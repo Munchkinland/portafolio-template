@@ -15,25 +15,78 @@
     "about": "I'm a CX Solutions Engineer and Data Scientist 🛠️, with a flair for innovating customer experience solutions and crafting data-driven applications 🔍. My achievements include developing over 10 web applications 🌐 that have drastically improved response times and personalized user interactions 🚀. Leading the initiative to implement CI/CD pipelines, I've driven a 25% boost in product quality in just three months ⏱️. Routinely surpassing goals by over 200% 📈, my efforts have significantly elevated customer satisfaction and streamlined operational efficiencies 💡. Fueled by a passion for exploring new technologies, I actively engage in sharing insights within my professional network and with clients 🌟, promoting a spirit of collaborative growth and innovation 🤝.",
     "tech_stack": [
       {
-        "icon": "devicon-devicon-plain",
-        "name": "Binario"
-      },
-      {
-        "icon": "devicon-devicon-plain",
-        "name": "Ensamblador"
-      },
-      {
-        "icon": "devicon-devicon-plain",
-        "name": "COBOL"
-      },
-      {
-        "icon": "devicon-c-plain",
-        "name": "C"
-      },
-      {
         "icon": "devicon-python-plain",
         "name": "Python"
+      },
+      {
+        "icon": "devicon-java-plain-wordmark",
+        "name": "Java"
+      },
+      {
+        "icon": "devicon-numpy-plain",
+        "name": "Numpy"
+      },
+      {
+        "icon": "devicon-pandas-plain",
+        "name": "Pandas"
+      },
+      {
+        "icon": "devicon-scikitlearn-plain",
+        "name": "Scikitlearn"
+      },
+      {
+        "icon": "devicon-tensorflow-original",
+        "name": "Tensorflow"
+      },
+      {
+        "icon": "devicon-pytorch-original",
+        "name": "Pytorch"
+      },
+      {
+        "icon": "devicon-plotly-plain",
+        "name": "Plotly"
+      },
+      {
+        "icon": "devicon-vscode-plain",
+        "name": "Vscode"
+      },
+      {
+        "icon": "devicon-android-plain",
+        "name": "Android Studio"
+      },
+      {
+        "icon": "devicon-git-plain",
+        "name": "Git"
+      },
+      {
+        "icon": "devicon-flask-original",
+        "name": "Flask"
+      },
+      {
+        "icon": "devicon-heroku-original",
+        "name": "Heroku"
+      },
+      {
+        "icon": "devicon-html5-plain",
+        "name": "Html"
+      },
+      {
+        "icon": "devicon-css3-plain",
+        "name": "CSS"
+      },
+      {
+        "icon": "devicon-bootstrap-plain",
+        "name": "Bootstrap"
+      },
+      {
+        "icon": "devicon-docker-plain",
+        "name": "Docker"
+      },
+      {
+        "icon": "devicon-bash-plain",
+        "name": "Bash"
       }
+      
     ],
     "experience": [
       {
@@ -83,8 +136,8 @@
           }
         ],
         "image": "/project_1.jpg",
-        "url": "https://matrix.fandom.com/wiki/MetaCortex",
-        "github": "https://github.com/thomasanderson"
+        "url": "https://www.iso33000.es/",
+        "github": "https://github.com/"
       },
       {
         "icon": "bug-off",
@@ -118,7 +171,7 @@
           }
         ],
         "image": "/project_2.jpg",
-        "url": "https://example.com/bicimad-plus",
+        "url": "",
         "github": "https://github.com/Munchkinland/BiciMad-2.0"
       },
       {
@@ -150,11 +203,20 @@
           
         ],
         "image": "/project_3.jpg",
-        "url": "https://example.com/ecofriendly-startup-ecosystem",
+        "url": "",
         "github": "https://github.com/Munchkinland/Flight-Fare-Forecast-a-Price-Prediction-Tool"
       }
     ],
     "training": [
+    
+      {
+        "icon": "backpack",
+        "title": "Degree in Cross-Platform Mobile Development",
+        "subtitle": "iFP",
+        "description": "Degree in developing mobile apps that seamlessly function across diverse platforms. This program equips them with essential skills in programming languages, frameworks, and tools vital for crafting efficient and user-friendly mobile applications compatible with iOS, Android, and other operating systems.",
+        "date": "2024",
+        "certificate": ""
+      },
       {
         "icon": "backpack",
         "title": "Data Science & Machine Learning Engineer",
@@ -162,14 +224,6 @@
         "description": "Implementing and creating machine learning algorithms in systems and applications, covering everything from model optimization to integration into real-time environments.",
         "date": "2024",
         "certificate": "https://certificate.4geeks.com/a6d0c7d3e1dd4b5f5b7da5c8b6d20b72a992fbb2"
-      },
-      {
-        "icon": "backpack",
-        "title": "Degree in Cross-Platform Mobile Development",
-        "subtitle": "iFP",
-        "description": "Degree in developing mobile apps that seamlessly function across diverse platforms. This program equips them with essential skills in programming languages, frameworks, and tools vital for crafting efficient and user-friendly mobile applications compatible with iOS, Android, and other operating systems.",
-        "date": "In Progress",
-        "certificate": ""
       },
       {
         "icon": "backpack",
@@ -207,21 +261,21 @@
     "extras": [
       {
         "image": "/extra_1.jpg",
-        "title": "The Matrix",
-        "description": "Aparecí en esta película.",
-        "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        "title": "Presentación de proyectos finales 4 Geeks",
+        "description": "Presentamos nuestro proyecto elegido cómo unos de los 2 mejores proyectos de la edición",
+        "url": "https://www.youtube.com/watch?v=7aVrHkknZ2w"
       },
       {
         "image": "/extra_2.jpg",
-        "title": "The Matrix Reloaded",
-        "description": "Y en esta otra.",
-        "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        "title": "Ctrl Alt_Data",
+        "description": "Mis colaboraciones en Python, Open Source, Machine Learning & Stadistics.",
+        "url": "https://ctrl-alt-data.tech"
       },
       {
         "image": "/extra_3.jpg",
-        "title": "The Matrix Revolutions",
-        "description": "Y en esta más.",
-        "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        "title": "Mi Tableau Public",
+        "description": "Mi colección de visualizaciones de datos interactivas creadas utilizando Tableau.",
+        "url": "https://public.tableau.com/app/profile/rub.n.carrasco/vizzes"
       }
     ]
   }
