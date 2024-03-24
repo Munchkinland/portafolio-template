@@ -12,6 +12,9 @@ pip install --upgrade pip
 # Instalar dependencias desde requirements.txt
 pip install -r requirements.txt
 
+# Asegurar que Reflex esté instalado
+pip install reflex
+
 # Limpiar el directorio public si existe
 rm -rf public
 
