@@ -16,10 +16,10 @@ pip install -r requirements.txt
 rm -rf public
 
 # Inicializar reflex (Asumiendo que esto prepara el proyecto para la exportación)
-#reflex init
+reflex init
 
 # Exportar el frontend solamente
-#reflex export --frontend-only
+reflex export --frontend-only
 
 # Verificar si el archivo frontend.zip fue generado
 if [ -f "frontend.zip" ]; then
