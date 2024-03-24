@@ -157,19 +157,51 @@
     "training": [
       {
         "icon": "backpack",
-        "title": "Central West Junior High",
-        "subtitle": "Una escuela",
-        "description": "Aprendí cosas.",
-        "date": "Indeterminado",
-        "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        "title": "Data Science & Machine Learning Engineer",
+        "subtitle": "4 Geeks Academy - Florida Departament of Education",
+        "description": "Implementing and creating machine learning algorithms in systems and applications, covering everything from model optimization to integration into real-time environments.",
+        "date": "2024",
+        "certificate": "https://certificate.4geeks.com/a6d0c7d3e1dd4b5f5b7da5c8b6d20b72a992fbb2"
+      },
+      {
+        "icon": "backpack",
+        "title": "Degree in Cross-Platform Mobile Development",
+        "subtitle": "iFP",
+        "description": "Degree in developing mobile apps that seamlessly function across diverse platforms. This program equips them with essential skills in programming languages, frameworks, and tools vital for crafting efficient and user-friendly mobile applications compatible with iOS, Android, and other operating systems.",
+        "date": "In Progress",
+        "certificate": ""
+      },
+      {
+        "icon": "backpack",
+        "title": "Master´s in Cybersecurity",
+        "subtitle": "Universidad Católica de Murcia",
+        "description": "Provides comprehensive training in safeguarding digital systems, covering areas such as threat detection, risk assessment, and securing networks against cyber threats",
+        "date": "2022",
+        "certificate": "https://verifirma.ucam.edu/CSV/ce7e7cc3-c0cf-43f3-8604-ede256ec9deb"
       },
       {
         "icon": "graduation-cap",
-        "title": "Owen Patterson High",
-        "subtitle": "Otra escuela",
-        "description": "Aprendí más cosas.",
-        "date": "Indeterminado",
-        "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        "title": "Data Analysis with Python",
+        "subtitle": "freeCodeCamp",
+        "description": "Skills for processing, visualizing, and extracting insights from datasets using Python programming language, covering topics from data manipulation to statistical analysis.",
+        "date": "2023",
+        "certificate": "https://freecodecamp.org/certification/RubenCarrasco/data-analysis-with-python-v7)"
+      },
+      {
+        "icon": "graduation-cap",
+        "title": "Machine Learning with Python",
+        "subtitle": "freeCodeCamp",
+        "description": "Practical guidance on applying machine learning algorithms to real-world problems, covering concepts from data preprocessing to model evaluation and deployment, all within the Python programming ecosystem.",
+        "date": "2023",
+        "certificate": "https://freecodecamp.org/certification/RubenCarrasco/machine-learning-with-python-v7)"
+      },
+      {
+        "icon": "graduation-cap",
+        "title": "Professional Certificate Program in Digital Transformation",
+        "subtitle": "MIT - Massachusetts Institute of Technology",
+        "description": "Skills and knowledge needed to navigate and lead organizational change in the era of digital innovation, covering topics ranging from emerging technologies to strategic implementation strategies.",
+        "date": "2022",
+        "certificate": "https://www.linkedin.com/in/rub%C3%A9n-carrasco-143145135/details/featured/1710879301534/single-media-viewer?type=IMAGE&profileId=ACoAACDyQoMBLbrGIATtbijuMTx3WvbLHNoL7b4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BcR1FqBLySeyL%2BFMByewtrg%3D%3D"
       }
     ],
     "extras": [
