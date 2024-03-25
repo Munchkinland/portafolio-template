@@ -263,19 +263,19 @@
         "image": "/extra_1.jpg",
         "title": "Presentación de proyectos finales 4 Geeks",
         "description": "Presentamos nuestro proyecto elegido cómo unos de los 2 mejores proyectos de la edición",
-        "url": "https://www.youtube.com/watch?v=7aVrHkknZ2w"
+        "url": "https://www.youtube.com/watch?v=7aVrHkknZ2w/"
       },
       {
         "image": "/extra_2.jpg",
         "title": "Ctrl Alt_Data",
         "description": "Mis colaboraciones en Python, Open Source, Machine Learning & Stadistics.",
-        "url": "https://ctrl-alt-data.tech"
+        "url": "https://ctrl-alt-data.tech/"
       },
       {
         "image": "/extra_3.jpg",
         "title": "Mi Tableau Public",
         "description": "Mi colección de visualizaciones de datos interactivas creadas utilizando Tableau.",
-        "url": "https://public.tableau.com/app/profile/rub.n.carrasco/vizzes"
+        "url": "https://public.tableau.com/app/profile/rub.n.carrasco/vizzes/"
       }
     ]
   }
