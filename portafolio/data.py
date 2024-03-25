@@ -34,6 +34,7 @@ class Extra:
         self.image = image
         self.title = title
         self.description = description
+        self.descriptionone = description
         self.url = url
 
 
